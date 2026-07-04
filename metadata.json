@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "org.kde.plasma.huecontrol",
+        "Name": "Philips Hue Control",
+        "Description": "Schalte Philips Hue Lampen ein/aus und regle die Helligkeit über die Bridge REST-API.",
+        "Icon": "help-hint",
+        "Authors": [
+            {
+                "Name": "KDE Developer",
+                "Email": "developer@kde.org"
+            }
+        ],
+        "Category": "Utilities",
+        "License": "GPL-2.0-or-later",
+        "Version": "1.0"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
