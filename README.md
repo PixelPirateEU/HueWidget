@@ -3,6 +3,8 @@
 [![License](https://img.shields.io/badge/License-GPL_2.0--or--later-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 [![Plasma](https://img.shields.io/badge/KDE-Plasma_6-orange.svg)](https://kde.org/)
 
+![Screenshot](ScreenshotHueWidget.png)
+
 ---
 
 ### [Deutsch](#deutsch) | [English](#english)
